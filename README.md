@@ -1,6 +1,6 @@
-# Jetpack Compose MVVM_User_App.
+# Jetpack Compose MVVM User App.
 
-This is an Android Application based on MVVM Architecture and Its UI is built in Jetpack Compose that uses [Random User Generator Api](https://randomuser.me/documentation) for fetching data.
+This Android Application is built using Jetpack Compose and follows the MVVM Architecture, and uses the [Random User Generator Api](https://randomuser.me/documentation) for fetching data.
 
 
 # Built With
@@ -13,7 +13,7 @@ This is an Android Application based on MVVM Architecture and Its UI is built in
 + Kotlin Coroutines.
 + Sealed Class.
 
-# Benefits of using MVVM Architecture
+# Benefits of using Jetpack Compose
 + Increased Productivity.
 + Improved User Experience.
 + Reusable Components.
