@@ -2,6 +2,8 @@
 
 This Android Application is built using Jetpack Compose and follows the MVVM Architecture, and uses the [Random User Generator Api](https://randomuser.me/documentation) for fetching data.
 
+https://user-images.githubusercontent.com/61506756/224541383-d9256497-45e9-4d86-b266-3682922de73c.mp4
+
 
 # Built With
 + Jetpack Compose for UI
